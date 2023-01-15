@@ -1,0 +1,10 @@
+node_modules
+build
+npm-debug.log
+key.json
+.nyc
+.env
+.DS_Store
+
+*.crt
+*.key
